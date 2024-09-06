@@ -3,3 +3,4 @@ Water
 Fire
 Air
 Gravity
+Jackson Anderson Immunity
